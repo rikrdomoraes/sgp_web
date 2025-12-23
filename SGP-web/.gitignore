@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+test/unit/coverage
+test/e2e/reports
+selenium-debug.log
+.idea
+/.idea
+**/.idea/workspace.xml **/.idea/tasks.xml
+yarn.lock
+yarn-error.log
+.vscode
